@@ -6,5 +6,6 @@ int main (void)
 {
 	
 	
+	int ahmed = 70; 
 	
 }
