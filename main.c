@@ -5,7 +5,8 @@ int x;
 int main (void)
 {
 	
-	
-	int ahmed = 70; 
+	int mohamud =100; 
+ 
+	printf("I Love Gehad Elsayed ");
 	
 }
