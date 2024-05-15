@@ -1,9 +1,11 @@
 
-int x;
+
 
 
 int main (void)
 {
+	int x = 10;
+	int y = 10; 
 	
 	int mohamud =100; 
 	char ff = 66; 
