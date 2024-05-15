@@ -9,6 +9,7 @@ int main (void)
 	char ff = 66; 
 	int hassan = 700; 
 	int x ;
+	int z = 70 ; 
  
 	printf("I Love Gehad Elsayed ");
 	
