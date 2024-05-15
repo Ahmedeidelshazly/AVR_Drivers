@@ -10,6 +10,7 @@ int main (void)
 	int hassan = 700; 
 	int x ;
 	int z = 70 ; 
+	int ahmedeidmohamed=77; 
  
 	printf("I Love Gehad Elsayed ");
 	
